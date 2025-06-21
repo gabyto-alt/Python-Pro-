@@ -32,4 +32,4 @@ async def gen_pass(pass_length):
         password += random.choice(elements)
 
     return password
-client.run("MTM4MzQ4Nzc5MTMzMzM3NjEwMw.GY0Ysh.L-qGPpH3Cp1L--_WwJ7e1HmphDSRclVhpbvT9k")
+client.run(Token)
